@@ -1,62 +1,62 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Ham',
-    username: 'Bret',
-    email: 'Hams@april.biz'
+    name: 'Billy West',
+    username: 'Fry',
+    email: 'Fry@april.biz'
   },
   {
     id: 2,
-    name: 'Mr. Emerson',
-    username: 'Antonette',
-    email: 'Ems@melissa.tv'
+    name: 'Katey Sagal',
+    username: 'Leela',
+    email: 'Leela@melissa.tv'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'John DiMaggio',
+    username: 'Bender',
+    email: 'Bender@yesenia.net'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Phil LaMarr',
+    username: 'Hermes',
+    email: 'Hermes@kory.org'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Lauren Tom',
+    username: 'Amy',
+    email: 'Amy@annie.ca'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'John Goodman',
+    username: 'RobotSanta',
+    email: 'Santa@jasper.info'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Bea Arthur',
+    username: 'Femputer',
+    email: 'Machine@billy.biz'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Sigourney Weaver',
+    username: 'PlanetXpress',
+    email: 'Sig@rosamond.me'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    name: 'Maurice LaMarche',
+    username: 'Kif',
+    email: 'kif_McDermott@dana.io'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'William West',
+    username: 'Professor',
+    email: 'Prof@karina.biz'
   }
 ];
