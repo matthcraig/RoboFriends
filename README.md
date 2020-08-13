@@ -20,7 +20,7 @@ The program will take any user input in the searchfield and show the profile(s) 
 * Go to the terminal and navigate to your desktop, using the command $ cd desktop
 * Navigate to the project folder, using the command $ cd rogobor
 * Open in a text editor (Atom, Visual Studio Code, or similar). For Visual Studio Code, use the command $ code .
-* To preview this project in your browser, from the projects root folder, use the terminal command npm start (see the below instructions via React).
+* To preview this project in your browser, from the projects root folder, use the terminal commands npm install, and then npm start (see the below instructions via React).
 
 ## Known Bugs
 
