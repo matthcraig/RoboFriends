@@ -1,3 +1,49 @@
+# _RoboFriends_
+
+#### _A program that organizes and sorts robot user profiles, August, 2020_
+
+#### By _**Matthew Craig**_
+
+## Description
+
+_This program will use a REST API (JSONPlaceholder) to present ten example profiles. It will accept user input in a searchfield to sort through the profiles and show matching entries. Robots lovingly delivered by Robohash.org_
+
+## Specs
+The program will make an API call and show 10 user profiles.
+
+The program will take any user input in the searchfield and show the profile(s) matching the letter/number combination entered.
+
+
+## Setup/Installation Requirements
+
+* Clone repository using this link: https://github.com/mgcraig78/robofriends
+* Go to the terminal and navigate to your desktop, using the command $ cd desktop
+* Navigate to the project folder, using the command $ cd rogobor
+* Open in a text editor (Atom, Visual Studio Code, or similar). For Visual Studio Code, use the command $ code .
+* To preview this project in your browser, from the projects root folder, use the terminal command npm start (see the below instructions via React).
+
+## Known Bugs
+
+_No known bugs_
+
+## Support and contact details
+
+_Matthew Craig: mgcraig78@gmail.com_
+
+## Technologies Used
+
+_React, JSX, javascript, css, tachyons_
+
+### License
+
+*MIT License*
+
+Copyright (c) 2020 **_Matthew Craig_**
+
+
+
+**MORE INFO**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
